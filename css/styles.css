@@ -1,0 +1,15 @@
+.container-fluid{
+    background-color: white;
+}
+.colorFila1{
+    background-color: aquamarine;
+}
+.colorFila2{
+    background-color:magenta;
+}
+.colorFila3{
+    background-color:rgb(216, 216, 112);
+}
+.row{
+    padding: 0.2em;
+}
